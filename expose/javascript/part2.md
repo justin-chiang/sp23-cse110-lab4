@@ -1,4 +1,4 @@
-# Part 2
+# JavaScript Intro - Part 2
 
 1. "3" is printed. i is incremented while iterating through the prices array, and takes value of 3 at the end of the loop. i is also declared using var, which has function scope.
 2. "150" is printed. On the last iteration of the for loop, discountedPrice is set to the last element in prices multiplied by the discount rate, which is 300 * 0.5 = 150. discountedPrice is also declared using var, which has function scope.
